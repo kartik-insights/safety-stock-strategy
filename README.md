@@ -1,4 +1,4 @@
-# safety-stock-strategy
+# Read about safety-stock-strategy
 
 # 📦 Safety Stock: The Hidden Engine of Resilient Supply Chains
 
